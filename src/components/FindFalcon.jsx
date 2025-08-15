@@ -4,23 +4,75 @@ const FindFalcon = () => {
   return (
     <div>
       <h1>Finding Falcone!</h1>
-      <option>
-        <select name="" id="">
+      <select>
+        <option value="planet 1">
           Planet 1
-        </select>
-        <select name="" id="">
+        </option>
+        <option value="planet 2">
           Planet 2
-        </select>
-        <select name="" id="">
+        </option>
+        <option value="planet 3">
           Planet 3
-        </select>
-        <select name="" id="">
+        </option>
+        <option value="planet 4">
           Planet 4
-        </select>
-        <select name="" id="">
+        </option>
+        <option value="planet 5">
           Planet 5
-        </select>
-      </option>
+        </option>
+      </select>
+      <select>
+        <option value="planet 1">
+          Planet 1
+        </option>
+        <option value="planet 2">
+          Planet 2
+        </option>
+        <option value="planet 3">
+          Planet 3
+        </option>
+        <option value="planet 4">
+          Planet 4
+        </option>
+        <option value="planet 5">
+          Planet 5
+        </option>
+      </select>
+      <select>
+        <option value="planet 1">
+          Planet 1
+        </option>
+        <option value="planet 2">
+          Planet 2
+        </option>
+        <option value="planet 3">
+          Planet 3
+        </option>
+        <option value="planet 4">
+          Planet 4
+        </option>
+        <option value="planet 5">
+          Planet 5
+        </option>
+      </select>
+      <select>
+        <option value="planet 1">
+          Planet 1
+        </option>
+        <option value="planet 2">
+          Planet 2
+        </option>
+        <option value="planet 3">
+          Planet 3
+        </option>
+        <option value="planet 4">
+          Planet 4
+        </option>
+        <option value="planet 5">
+          Planet 5
+        </option>
+      </select>
+      <button>Search</button>
     </div>
   );
 };
